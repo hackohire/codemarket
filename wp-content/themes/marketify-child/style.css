@@ -3,6 +3,9 @@ Theme Name:     Marketify Child
 Theme URI:      http://astoundify.com/themes/marketify
 Template:       marketify
 Version:        1.0
-*
-**/
 
+*/
+
+.download-gallery__image.slick-slide.slick-current.slick-active {
+    display: none;
+} 
